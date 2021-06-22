@@ -1,0 +1,1 @@
+400 weapon spear 2 10 10 5 5

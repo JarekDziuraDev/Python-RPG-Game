@@ -1,0 +1,2 @@
+100 wood weakstick 3 1
+101 wood deska 5 5

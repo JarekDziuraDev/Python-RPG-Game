@@ -1,0 +1,12 @@
+1 w pliku item_class są klasy takie jak Item_Count, i Item_Value które inicjalizuje się z 0, i taką wartość akceptuje klasa min_max_item_menu, popraw aby klasa mogła poprawnie działać z wartością None - chyba poprawione
+
+2 dokończyć zapisywanie enemy do plików wraz z zrobieniem indeksu, 
+3. wykonać wreście ten edytor do ustawiania znaków
+4. dać mozliwość dodawania wrógów 
+5. obiekty typu enenmy mogą się poruszać po mapie, podczas 
+
+05.12.2020
+
+__editor_load_equipment_items
+if i == 2:
+if i == len(file_list):
